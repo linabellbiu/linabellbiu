@@ -67,6 +67,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/pavlovtech">
+        <img src="https://avatars2.githubusercontent.com/u/6662454" width="100px;" alt="pavlovtech"/>
+      </a>
+      <br />
+      <a href="https://github.com/pavlovtech">Alex Pavlov </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/czero1995">
         <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
       </a>
@@ -102,6 +109,15 @@
       <a href="https://github.com/jiawei666">beConfident</a>
     </td>
     <td align="center">
+      <a href="https://github.com/duomoo">
+        <img src="https://avatars2.githubusercontent.com/u/18507729" width="100px;" alt="duomoo"/>
+      </a>
+      <br />
+      <a href="https://github.com/duomoo">DuoMO</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/a10n2">
         <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
       </a>
@@ -115,8 +131,6 @@
       <br />
       <a href="https://github.com/heleneunice">heleneunice</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/gagren">
         <img src="https://avatars2.githubusercontent.com/u/57005717" width="100px;" alt="gagren"/>
