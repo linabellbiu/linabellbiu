@@ -61,7 +61,7 @@
   <img alt="500px" src="https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white" />
 </p>
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+## :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
