@@ -1,13 +1,11 @@
 name: Get Top Followers
-
 on:
   push:
-    branches:
-      - master
+    branches: [ master ]
   schedule:
     - cron: "*/1 * * * *"
   workflow_dispatch:
-
+  
 jobs:
   top-followers:
     runs-on: ubuntu-latest
