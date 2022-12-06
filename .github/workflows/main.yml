@@ -4,5 +4,11 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "* * * * *"
+  - cron: "* * * * *"
+  
   workflow_dispatch:
+  
+jobs:
+  top-followers:
+    runs-on: ubuntu-latest
+    
