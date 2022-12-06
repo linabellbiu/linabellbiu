@@ -74,7 +74,7 @@ query {{
             thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
             if following > thirdStars * 50 + repoCount * 5 + followerNumber:
                 # 为什么要跳过？
-                # print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
+                print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
                 # continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
