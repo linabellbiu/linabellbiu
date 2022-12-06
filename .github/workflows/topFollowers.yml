@@ -24,7 +24,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.email "834971685@qq.com"
-          git config --local user.name "wangxudong123"
+          git config --local user.name "linabellbiu"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update top followers"
       - name: Pull changes
