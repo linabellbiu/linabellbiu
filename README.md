@@ -64,5 +64,73 @@
 #### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/czero1995">
+        <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
+      </a>
+      <br />
+      <a href="https://github.com/czero1995">Rick</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Peefy">
+        <img src="https://avatars2.githubusercontent.com/u/22744597" width="100px;" alt="Peefy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Peefy">Peefy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xjq7">
+        <img src="https://avatars2.githubusercontent.com/u/42568663" width="100px;" alt="xjq7"/>
+      </a>
+      <br />
+      <a href="https://github.com/xjq7">xjq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FamousMai">
+        <img src="https://avatars2.githubusercontent.com/u/17564206" width="100px;" alt="FamousMai"/>
+      </a>
+      <br />
+      <a href="https://github.com/FamousMai">FamousMai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jiawei666">
+        <img src="https://avatars2.githubusercontent.com/u/24775116" width="100px;" alt="jiawei666"/>
+      </a>
+      <br />
+      <a href="https://github.com/jiawei666">beConfident</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/a10n2">
+        <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
+      </a>
+      <br />
+      <a href="https://github.com/a10n2">a10n2</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/heleneunice">
+        <img src="https://avatars2.githubusercontent.com/u/119847370" width="100px;" alt="heleneunice"/>
+      </a>
+      <br />
+      <a href="https://github.com/heleneunice">heleneunice</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gagren">
+        <img src="https://avatars2.githubusercontent.com/u/57005717" width="100px;" alt="gagren"/>
+      </a>
+      <br />
+      <a href="https://github.com/gagren">gagren</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KenLun777">
+        <img src="https://avatars2.githubusercontent.com/u/93546313" width="100px;" alt="KenLun777"/>
+      </a>
+      <br />
+      <a href="https://github.com/KenLun777">KenLun777</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
