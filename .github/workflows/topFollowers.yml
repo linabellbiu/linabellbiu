@@ -1,4 +1,5 @@
 name: Get Top Followers
+# Controls when the action will run. Triggers the workflow on push events
 on:
   push:
     branches: [ main ]
