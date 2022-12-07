@@ -67,13 +67,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pavlovtech">
-        <img src="https://avatars2.githubusercontent.com/u/6662454" width="100px;" alt="pavlovtech"/>
-      </a>
-      <br />
-      <a href="https://github.com/pavlovtech">Alex Pavlov </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/czero1995">
         <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
       </a>
@@ -115,8 +108,6 @@
       <br />
       <a href="https://github.com/duomoo">DuoMO</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/a10n2">
         <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
@@ -124,6 +115,8 @@
       <br />
       <a href="https://github.com/a10n2">a10n2</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/heleneunice">
         <img src="https://avatars2.githubusercontent.com/u/119847370" width="100px;" alt="heleneunice"/>
