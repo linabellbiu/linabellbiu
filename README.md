@@ -67,18 +67,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/czero1995">
-        <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
-      </a>
-      <br />
-      <a href="https://github.com/czero1995">Rick</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Peefy">
         <img src="https://avatars2.githubusercontent.com/u/22744597" width="100px;" alt="Peefy"/>
       </a>
       <br />
       <a href="https://github.com/Peefy">Peefy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/czero1995">
+        <img src="https://avatars2.githubusercontent.com/u/11902423" width="100px;" alt="czero1995"/>
+      </a>
+      <br />
+      <a href="https://github.com/czero1995">Rick</a>
     </td>
     <td align="center">
       <a href="https://github.com/xjq7">
