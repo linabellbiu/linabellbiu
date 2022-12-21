@@ -113,7 +113,7 @@
         <img src="https://avatars2.githubusercontent.com/u/99976288" width="100px;" alt="a10n2"/>
       </a>
       <br />
-      <a href="https://github.com/a10n2">a10n2</a>
+      <a href="https://github.com/a10n2">a10n2-dev</a>
     </td>
   </tr>
   <tr>
