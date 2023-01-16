@@ -2,7 +2,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
-<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=linabellbiu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="right" width="355" src="https://github-readme-stats-ruby-one.vercel.app/api?username=linabellbiu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <div align="left">  
   
 <a href="https://github.com/linabellbiu"><img alt="github" src="https://img.shields.io/github/stars/linabellbiu?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" /></a>
