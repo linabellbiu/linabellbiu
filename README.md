@@ -17,7 +17,7 @@
 <p>🧋 Don't forget to drink Tea 🧋</p>
 </div>
 <h2 align="left" >⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/output/generated/languages.svg" />
+<img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/master/generated/languages.svg" />
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/golang/go">Go language programming</a></li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -28,7 +28,7 @@
 <li>📙 Check out my <a href="https://500px.com.cn/community/user-details/3581364494d26aac0ba19cf77a9ae4926">photography photos</a>.</li> 
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
-<img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/output/generated/overview.svg" />  
+<img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/master/generated/overview.svg" />  
 <img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
 <img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
 <img align="" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
