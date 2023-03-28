@@ -26,7 +26,6 @@
 <li>🦀 I am learning rust.</li>
 <li>🍜 I'm learning how to cook.</li>
 <li>📙 Check out my <a href="https://500px.com.cn/community/user-details/3581364494d26aac0ba19cf77a9ae4926">photography photos</a>.</li> 
-<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 <img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/master/generated/overview.svg" />  
 <img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
