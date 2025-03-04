@@ -25,6 +25,8 @@
 <li>📷 I like photography.</li>
 <li>🦀 I am learning rust.</li>
 <li>🍜 I'm learning how to cook.</li> 
+<li>...</li> 
+<li>...</li> 
 </ul>
 <img align="right" src="https://raw.githubusercontent.com/linabellbiu/github-stats-transparent/master/generated/overview.svg" />  
 <img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
